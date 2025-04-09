@@ -7,3 +7,10 @@
 
 
 ![click to image.](https://learn.microsoft.com/en-us/training/azure-devops/shared/media/mara.png)
+
+
+```javascript
+var first = 1;
+var second = 2;
+var sum = first + second;
+```
