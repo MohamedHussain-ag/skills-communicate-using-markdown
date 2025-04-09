@@ -14,3 +14,9 @@ var first = 1;
 var second = 2;
 var sum = first + second;
 ```
+
+
+- [ ] open github
+- [ ] open branch account
+- [ ] upload branch file
+- [ ] check the status
